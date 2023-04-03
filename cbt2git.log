@@ -1,0 +1,16 @@
+2023-04-03 02:08:24.046619 - Initialized conversion of CBT710
+2023-04-03 02:08:24.126487 - Received CBT.V504.FILE710.PDS from FILE710.XMI 
+2023-04-03 02:08:24.129828 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE710.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:08:24.131125 - Found $$BSP.txt (text/plain) in CBT.V504.FILE710.PDS, moved to PDS/$$BSP
+2023-04-03 02:08:24.132302 - Found @FILE710.txt (text/plain) in CBT.V504.FILE710.PDS, moved to PDS/@FILE710
+2023-04-03 02:08:24.133297 - Found BOX.txt (text/plain) in CBT.V504.FILE710.PDS, moved to PDS/BOX
+2023-04-03 02:08:24.134559 - Found BSPAUTH.txt (text/plain) in CBT.V504.FILE710.PDS, moved to PDS/BSPAUTH
+2023-04-03 02:08:24.135621 - Found BSPGLBLS.txt (text/plain) in CBT.V504.FILE710.PDS, moved to PDS/BSPGLBLS
+2023-04-03 02:08:24.136737 - Found DDU.txt (text/plain) in CBT.V504.FILE710.PDS, moved to PDS/DDU
+2023-04-03 02:08:24.137823 - Found DDUVOL.txt (text/plain) in CBT.V504.FILE710.PDS, moved to PDS/DDUVOL
+2023-04-03 02:08:24.138998 - Found DDUVOLX.jcl (text/plain) in CBT.V504.FILE710.PDS, moved to PDS/DDUVOLX
+2023-04-03 02:08:24.140057 - Found DDUX.jcl (text/plain) in CBT.V504.FILE710.PDS, moved to PDS/DDUX
+2023-04-03 02:08:24.150366 - Found LOADLIB.xmi (application/xmit) in CBT.V504.FILE710.PDS
+2023-04-03 02:08:24.159064   - Received RECFM=U data, stored XMIT file as CBT710/LOADLIB.xmi
+2023-04-03 02:08:24.160286 - Found SVC244$.txt (text/plain) in CBT.V504.FILE710.PDS, moved to PDS/SVC244$
+2023-04-03 02:08:24.161361 - Found TOTAPED.jcl (text/plain) in CBT.V504.FILE710.PDS, moved to PDS/TOTAPED
