@@ -1,0 +1,17 @@
+2025-04-13 22:00:55.487589 - Received CBT.V505.FILE710.PDS from FILE710.XMI 
+2025-04-13 22:00:55.488962 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE710.PDS, moved to PDS/$$$#DATE
+2025-04-13 22:00:55.489056 - Found $$BSP.txt (text/plain) in CBT.V505.FILE710.PDS, moved to PDS/$$BSP
+2025-04-13 22:00:55.489160 - Found @FILE710.txt (text/plain) in CBT.V505.FILE710.PDS, moved to PDS/@FILE710
+2025-04-13 22:00:55.489241 - Found BOX.txt (text/plain) in CBT.V505.FILE710.PDS, moved to PDS/BOX
+2025-04-13 22:00:55.489316 - Found BSPAUTH.txt (text/plain) in CBT.V505.FILE710.PDS, moved to PDS/BSPAUTH
+2025-04-13 22:00:55.489392 - Found BSPGLBLS.txt (text/plain) in CBT.V505.FILE710.PDS, moved to PDS/BSPGLBLS
+2025-04-13 22:00:55.489473 - Found DDU.txt (text/plain) in CBT.V505.FILE710.PDS, moved to PDS/DDU
+2025-04-13 22:00:55.489550 - Found DDUVOL.txt (text/plain) in CBT.V505.FILE710.PDS, moved to PDS/DDUVOL
+2025-04-13 22:00:55.489652 - Found DDUVOLX.jcl (text/plain) in CBT.V505.FILE710.PDS, moved to PDS/DDUVOLX
+2025-04-13 22:00:55.489743 - Found DDUX.jcl (text/plain) in CBT.V505.FILE710.PDS, moved to PDS/DDUX
+2025-04-13 22:00:55.489836 - Found LOADLIB.xmi (application/xmit) in CBT.V505.FILE710.PDS, moved to PDS/LOADLIB.xmi
+2025-04-13 22:00:55.497656 - Received SBGOLOB.DDU.CMDLIB from LOADLIB.xmi 
+2025-04-13 22:00:55.498122 - Found DDUVOLX.bin (application/octet-stream) in SBGOLOB.DDU.CMDLIB, moved to LOADLIB/DDUVOLX
+2025-04-13 22:00:55.498235 - Found DDUX.bin (application/octet-stream) in SBGOLOB.DDU.CMDLIB, moved to LOADLIB/DDUX
+2025-04-13 22:00:55.498441 - Found SVC244$.txt (text/plain) in CBT.V505.FILE710.PDS, moved to PDS/SVC244$
+2025-04-13 22:00:55.498511 - Found TOTAPED.jcl (text/plain) in CBT.V505.FILE710.PDS, moved to PDS/TOTAPED
